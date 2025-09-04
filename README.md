@@ -1,0 +1,1 @@
+a versenyen nem vettem részt, de az első forduló feladatait kíváncsiságból megoldottam

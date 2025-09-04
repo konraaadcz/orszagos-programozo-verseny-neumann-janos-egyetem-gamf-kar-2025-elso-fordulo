@@ -1,0 +1,3 @@
+module harmadikfeladat {
+    exports feladat;
+}
