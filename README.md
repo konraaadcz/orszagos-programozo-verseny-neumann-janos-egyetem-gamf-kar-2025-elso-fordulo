@@ -1,1 +1,1 @@
-a versenyen nem vettem részt, de az első forduló feladatait kíváncsiságból megoldottam
+a versenyen nem vettem részt, de az első forduló feladatait kíváncsiságból megoldottam, a projektnek pedig, miután megcsináltam, semmi haszna nem volt eddig a pontig, mert most úgy gondoltam, hogy ha már megcsináltam (még régebben), akkor megosztom a nyilvánossággal
